@@ -6,7 +6,7 @@ Built by Team: The Neural Knights ⚔️🛡️
 
 👑 The Squad:
 Bhagyashri (Captain & Lead Developer) 👩‍💻
-Anushka
-Payal
-Prashant
-Sneha
+Anushka,
+Payal,
+Prashant,
+Sneha.
