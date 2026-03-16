@@ -5,7 +5,7 @@ Built by Team: The Neural Knights ⚔️🛡️
 (For the Culling Games 2026!)
 
 👑 The Squad:
-Bhagyashri (Captain & Lead Developer) 👩‍💻
+Bhagyashri (Captain & Lead Developer) 👩‍💻,
 Anushka,
 Payal,
 Prashant,
